@@ -17,6 +17,7 @@
 * [Sql教程](https://www.liaoxuefeng.com/wiki/1177760294764384)
 * [Javascript教程](https://www.liaoxuefeng.com/wiki/1022910821149312)
 * [C++ primer中文版](https://github.com/applenob/Cpp_Primer_Practice)
+* [Linux基础操作]
 
 
 ## 3. Machine learning
